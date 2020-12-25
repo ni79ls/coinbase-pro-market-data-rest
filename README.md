@@ -9,3 +9,5 @@ In case you want to get started as a crypto investor and you want to take matter
 - How to visualize Bitcoin (or any other crypto currency) historic data in Python?
 
 The example uses Coinbase Pro as an exchange but it should be easily transferable to the other major digital currency exchange Kraken. The full pro.coinbase.com documentation can be found here.
+
+The original Medium article can be found here: https://nils-ackermann.medium.com/load-and-visualise-bitcoin-market-data-from-coinbase-pro-via-python-and-rest-api-fa5198e62646
